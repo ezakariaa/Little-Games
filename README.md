@@ -1,2 +1,2 @@
-# testing-codes
-A repo just for testing some codes &amp; Do somes exercices.
+# About :
+A repo just for some little games created by me.
